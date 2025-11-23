@@ -26,7 +26,8 @@ The system helps cloud service providers or internal cloud teams to:
 
 🗂️ Architecture Overview
 
-![WhatsApp Image 2025-11-23 at 20 55 33_26190663](https://github.com/user-attachments/assets/0300be90-e763-4961-800b-b3a9fd4c34a9)
+![WhatsApp Image 2025-11-23 at 19 24 32_720ca87d](https://github.com/user-attachments/assets/82421743-0e5e-4bd2-8323-5933ee2ae698)
+
 
 
 
@@ -34,7 +35,7 @@ The system helps cloud service providers or internal cloud teams to:
 🧱 Medallion Architecture
   🔶 Bronze Layer – Raw Data
 
-    Direct ingestion from Snowflake, S3, and API
+    Direct ingestion from Snowflake, GCP, and API
 
     No transformations
 
@@ -153,7 +154,7 @@ The system helps cloud service providers or internal cloud teams to:
 
   4.Snowflake
 
-  5.Amazon S3
+  5.GCP
 
   6.REST APIs
 
