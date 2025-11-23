@@ -8,6 +8,7 @@ Azure Cloud • Databricks • Medallion Architecture • Machine Learning • P
 
 Demo Video :
 
+<video src="sandbox:/mnt/data/demovideo.mp4" width="600" controls></video>
 
 
 🚀 Project Overview
