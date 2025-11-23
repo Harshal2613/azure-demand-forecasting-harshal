@@ -7,8 +7,7 @@ Infosys Springboard 6.0 – Internship Project
 Azure Cloud • Databricks • Medallion Architecture • Machine Learning • Power BI Dashboards
 
 Demo Video :
-
-<video src="sandbox:/mnt/data/demovideo.mp4" width="600" controls></video>
+<video src="[https://drive.google.com/uc?export=download&id=FILE_ID](https://drive.google.com/file/d/1Mh1v77W-Ljzj456S5Ujylvs_x_XNhKwH/view?usp=sharing)" width="600" controls></video>
 
 
 🚀 Project Overview
