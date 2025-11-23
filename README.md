@@ -1,4 +1,6 @@
-#📊 Azure Demand Forecasting & Capacity Optimization System
+#azure-demand-forecasting-harshal
+
+📊 Azure Demand Forecasting & Capacity Optimization System
 
 Infosys Springboard 6.0 – Internship Project
 
