@@ -1,4 +1,4 @@
-#azure-demand-forecasting-harshal
+# Azure-Demand-Forecasting-Capacity-Optimization-System-Harshal-Mahajan
 
 📊 Azure Demand Forecasting & Capacity Optimization System
 
