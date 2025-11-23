@@ -1,4 +1,5 @@
-📊 Azure Demand Forecasting & Capacity Optimization System
+#📊 Azure Demand Forecasting & Capacity Optimization System
+
 Infosys Springboard 6.0 – Internship Project
 
 Azure Cloud • Databricks • Medallion Architecture • Machine Learning • Power BI Dashboards
