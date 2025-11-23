@@ -6,6 +6,10 @@ Infosys Springboard 6.0 – Internship Project
 
 Azure Cloud • Databricks • Medallion Architecture • Machine Learning • Power BI Dashboards
 
+Demo Video :
+
+
+
 🚀 Project Overview
 
 This project demonstrates a complete end-to-end Cloud Demand Forecasting & Capacity Optimization system built using Azure Data Factory, Azure Databricks, Azure Data Lake Gen2, and Power BI.
