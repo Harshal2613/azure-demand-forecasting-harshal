@@ -138,9 +138,10 @@ The system helps cloud service providers or internal cloud teams to:
 
   ![WhatsApp Image 2025-11-23 at 18 57 48_67924785](https://github.com/user-attachments/assets/16afa1a5-3049-47ab-9dbb-49c03b164c4e)
 
-
   ✔ Helps plan storage expansion & cost optimization.
-
+  The dashboard is visible in this link: 
+  https://app.powerbi.com/view?r=eyJrIjoiOGRhOTVmZDItNThhZC00MWJmLTkxNzUtYWVkYTZkNGM4NzRkIiwidCI6IjI5MTk2MTM0LTRiNzktNDY1NS1hYTZjLTAyNTc2MzQ5NGI2NCJ9 
+  
 🔧 Technologies Used
 
   1.Azure Data Factory
